@@ -1,6 +1,6 @@
 # TITLE
 
-Source []().
+Adapted from []().
 
 **Serves:** 
 
