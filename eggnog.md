@@ -2,6 +2,8 @@
 
 Adapted from the Minimalist Baker's [Easy Vegan Eggnog](https://minimalistbaker.com/easy-vegan-eggnog/).
 
+**Serves:** 8 (1/2 cup servings)
+
 ## Ingredients
 
 | Amount | Ingredient
