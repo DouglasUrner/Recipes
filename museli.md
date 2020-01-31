@@ -8,7 +8,7 @@ Source []().
 
 | Amount  | Ingredient
 | :----:  | :---------
-| 3 cups  | Nut milk (almond works well)
+| 3 cups  | Oat or nut milk
 | 2 cups  | Rolled oats
 | 3 T     | Maple syrup
 | 1/3 cup | Chia seeds
