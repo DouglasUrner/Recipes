@@ -10,21 +10,21 @@ Source []().
 
 | Amount | Ingredient
 | :----: | :---------
-| 500 ml | Water or vegetable broth
-| 1 medium | Potato, coarsly chopped
-| 50 g | Carrots, (1 medium) chopped
-| 2 Tbsp | Onion, chopped or 1/2 tsp onion powder
-| 4 cloves | Garlic, or 1 tsp garlic powwder
-| 1 Tbsp | Tomato paste, or 1/2 a medium tomato
-| 1/2 - 1 tsp | Mustard powder
-| 2 tsp | Liquid aminos
-| 3 - 4 Tbsp | Nutritional yeast
-| 2 - 3 tsp | Lemon juice
-| 1/3 tsp | Smoked paprika or chipolte powder
-| 3/4 tsp | Salt
-| 1/4 tsp | White pepper
-| 1 tsp | Black pepper
-| 6 - 8 oz | Pasta, uncooked
+| 1000 ml | Water or vegetable broth
+| 350 g | Potatos (2 medium), coarsly chopped
+| 100 g | Carrots (1 medium), chopped
+| 8 Tbsp | Onion, chopped or 20 ml onion powder
+| 4 cloves | Garlic, or 10 ml garlic powwder
+| 30 ml | Tomato paste, or 1 medium tomato
+| 1 - 2 tsp | Mustard powder
+| 4 tsp | Liquid aminos
+| 6 - 8 Tbsp | Nutritional yeast
+| 1 - 2 Tbsp | Lemon juice
+| 2.5 ml | Smoked paprika or chipolte powder
+| 5 ml | Salt
+| 2.5 ml | White pepper
+| 10 ml | Black pepper
+| 500 g | Pasta, uncooked
 
 
 ## Instructions
