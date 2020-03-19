@@ -1,21 +1,10 @@
-# TITLE
+# Fried Tofu Eggs
 
 Adapted from [Fried Tofu Eggs](https://www.theppk.com/2019/12/fried-tofu-eggs/).
 
 **Serves: 12 (makes 24 eggs)** 
 
 ## Ingredients
-
-| Amount | Ingredient
-| :----: | :---------
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
 
 For the egg white:
 | Amount | Ingredient
