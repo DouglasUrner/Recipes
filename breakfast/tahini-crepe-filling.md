@@ -16,3 +16,7 @@ Adapted from [An Omelet With an Unexpected Creamy Filling: Tahini](https://www.n
 ## Instructions
 
 Grate a tiny garlic clove (or half of large one) into a bowl, and add a tablespoon of lemon juice and pinch of salt. Whisk in 2 tablespoons tahini. When it’s all nice and smooth, loosen the mixture with a little warm water, whisked in a teaspoon at time. It should be pourable but not runny. Taste and add more salt and lemon juice, if need be.
+
+### Notes
+
+Try combining with some greens sauteed with nutmeg and black pepper.
