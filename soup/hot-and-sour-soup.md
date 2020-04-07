@@ -1,6 +1,6 @@
 # Hot-and-Sour Soup
 
-Adapted from []().
+Adapted from [Chris Morocco's Spring Hot-and-Sour Soup](https://www.bonappetit.com/recipe/spring-hot-and-sour-soup).
 
 **Serves:** 2 generously
 
