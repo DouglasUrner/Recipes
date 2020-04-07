@@ -9,7 +9,7 @@ Adapted from Chris Morocco's [Spring Hot-and-Sour Soup](https://www.bonappetit.c
 | Amount | Ingredient
 | :----: | :---------
 | 1 Tsp | extra-virgin olive oil
-| 3 cloves | garlic, thinly sliced
+| 3 large cloves | garlic, thinly sliced
 | 1” | ginger, peeled, finely chopped
 | 2 Tsp | miso
 | 1 Tsp | Bragg's Liquid Aminos
