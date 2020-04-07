@@ -1,6 +1,6 @@
 # Hot-and-Sour Soup
 
-Adapted from Chris Morocco's [Spring Hot-and-Sour Soup](https://www.bonappetit.com/recipe/spring-hot-and-sour-soup) (bon appetit).
+Adapted from Chris Morocco's [Spring Hot-and-Sour Soup](https://www.bonappetit.com/recipe/spring-hot-and-sour-soup) (bon appétit).
 
 **Serves:** 2 generously
 
