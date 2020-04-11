@@ -9,18 +9,23 @@ Adapted from [A Virtual Vegan: Crumbly or Spreadable Feta Chese](https://avirtua
 | Amount | Ingredient
 | :----: | :---------
 | 350 g / 12 oz | extra firm or drained firm tofu, no need to press
-| 120 ml / ½ cup | melted refined coconut oil (measured after melting) , it MUST be refined and not unrefined or virgin
-| 45 ml / 3 Tbsp | freshly squeezed lemon juice
+| 120 ml / ½ cup | refined coconut oil, melted 
+| 45 ml / 3 Tbsp | lemon juice
 | 30 ml / 2 Tbsp | apple cider vinegar
 | 1 Tbsp | nutritional yeast
 | 1 tsp | onion powder
 | ½ tsp | garlic powder
-| ¼ tsp | dried dill, please note the finished feta does not taste of dill at all - Strangely, it helps the feta flavour so please don't omit it.
-| 1½ - 2 tsp | salt, or to taste
+| ¼ tsp | dried dill
+| 1 tsp | salt, plus more for adjusting the saltiness
+
+#### Notes:
+
+* Use refined coconut oil, unrefined or virgin coconut oil will add a coconut flavor to the feta.
+* The dried dill imparts a "feta flavor," there is no dill taste in the finished feta.
 
 ### Instructions
 
-1. Add all of the ingredients to a food processor (this recipe does not work well in a blender, even a high powered one), starting off with only half of the salt.
+1. Add all of the ingredients to a food processor or high-powered blender, a food processor makes it easier extract the finished feta.
 1. Blend it all up until smooth then taste and add more salt as needed.
 1. Blend to incorporate it after each addition of salt. Remember that this is feta so it should have quite a salty edge. I like to use a full 2 teaspoons in mine.
 
