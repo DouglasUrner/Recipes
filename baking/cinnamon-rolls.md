@@ -47,5 +47,10 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 1. Starting on a long edge, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough into 1.5 - 2 inch sections and position in a well-buttered 8x8-inch square or comparable sized round pan (you should have about 10 rolls as original recipe is written). 
 
 ### Second Rise & Baking:
-1. Brush with vegan butter (melted) and cover with plastic wrap. Set on top of the oven to let rise again while you preheat oven to 350 degrees F (176 C). Let the rolls rise until the rolls have puffed up noticably.
+1. Brush the tops of the rolls with the remaining melted butter.  Cover and set on top of the oven to let rise again while you preheat oven to 350 degrees F (176 C). Let rise until the rolls have puffed up noticably.
 1. Once the oven is hot, bake rolls for 25-30 minutes or until slightly golden brown. Let cool for a few minutes and then serve immediately.
+
+
+## Notes:
+
+* Try increasing quantities by about 25% to make 12 rolls, bake in an 8 x 12 pan.
