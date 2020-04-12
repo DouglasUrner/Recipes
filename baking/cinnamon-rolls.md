@@ -23,7 +23,7 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 | :----:  | :---------
 | 3 Tbsp  | vegan butter (Melt, melted)
 | 1/4 cup | light brown sugar
-| 1 Tbsp  | ground cinnamon (to taste)
+| 1 1/2 Tbsp  | ground cinnamon (Korintje)
 | 1 1/2 cups  | toasted pecans, chopped
 | 1/2 cup   | golden raisens or other dried fruit
 
