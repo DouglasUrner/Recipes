@@ -1,8 +1,8 @@
 # Cinnamon Rolls
 
-Adapted from []().
+Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/).
 
-**Serves:** 
+**Makes: about 10 rolls** 
 
 ## Ingredients
 
