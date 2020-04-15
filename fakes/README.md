@@ -1,5 +1,6 @@
+* [Bacon](bacon.md)
 * [Egg Nog](egg-nog.md)
 * [Feta Cheese](feta.md)
-* [Fried Eggs]()
+* [Fried Eggs](fried-eggs.md)
 * [Parmesean Cheese](parmeasean.md)
 * [Sour Cream](sour-cream.md)
