@@ -8,18 +8,11 @@ Adapted from []().
 
 | Amount | Ingredient
 | :----: | :---------
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
+|  
 
 
 ## Instructions
 
 1. 
 
-Notes
+## Notes
