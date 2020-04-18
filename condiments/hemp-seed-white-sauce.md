@@ -6,14 +6,22 @@ Adapted from []().
 
 ## Ingredients
 
-| Amount | Ingredient
-| :----: | :---------
-|  
+| Amount   | Ingredient
+| :----:   | :---------
+| 1/2 C    | raw pepitas (pumpkin seeds)
+| 1/2 C    | hemp seeds
+| 1 C      | oat or nut milk
+| 2 cloves | garlic
+| 4 tsp    | white wine or white balsamic vinegar
+| 1 tsp    | salt
+| 1/2 tsp  | black pepper
 
 
 ## Instructions
 
-1. 
+1. Combine ingredients and blend on high for about a minute.
 
 ## Notes
+
+* If the amounts are reduced by half the recipe will still work in a VitaMix.
 
