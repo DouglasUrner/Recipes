@@ -12,14 +12,14 @@ Adapted from []().
 | 1/2 C    | hemp seeds
 | 1 C      | oat or nut milk
 | 2 cloves | garlic
-| 4 tsp    | white wine or white balsamic vinegar
+| 4 tsp    | white balsamic vinegar (or use white wine vinegar)
 | 1 tsp    | salt
 | 1/2 tsp  | black pepper
 
 
 ## Instructions
 
-1. Combine ingredients and blend on high for about a minute.
+1. Combine ingredients and blend on high for about a minute, sauce will thicken as you blend.
 
 ## Notes
 
