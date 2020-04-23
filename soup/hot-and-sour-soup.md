@@ -32,3 +32,7 @@ Adapted from Chris Morocco's [Spring Hot-and-Sour Soup](https://www.bonappetit.c
 1. Add mushrooms, corn and tomatoes. Cook until heated through, about 3 minutes.
 1. Drop in tofu by spoonfuls, add spinach, and cook just until heated through, about 1 minute.
 1. Ladle soup into bowls and sprinkle with crushed red pepper and/or freshly ground black pepper, if desired.
+
+## Notes
+
+* The vegetables are choosen mostly for color – in other words, use what you like or what looks good to you or what you have on hand.
