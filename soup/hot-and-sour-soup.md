@@ -19,7 +19,7 @@ Adapted from Chris Morocco's [Spring Hot-and-Sour Soup](https://www.bonappetit.c
 | 3 oz   | crimini mushrooms (mini-bellas), trimmed, thinly sliced
 | 1 cup  | corn kernels, yellow if possible
 | 6      | cherry tomatoes, halved
-| 8 oz   | silken tofu
+| 16 oz  | silken tofu
 | 2 cups | spinach leaves, coarsly chopped
 
 ## Instructions
