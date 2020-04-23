@@ -7,3 +7,4 @@ Vegan recipes
 * [Condiments](condiments) - real vegan condiments, check the Fakes section for things like sour cream.
 * [Fakes](fakes) - reasonable reproductions of those tasty treats you really con't live without.
 * [Main Courses](mains)
+* [Soups](soup)
