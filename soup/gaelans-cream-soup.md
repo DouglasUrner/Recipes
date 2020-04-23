@@ -1,8 +1,8 @@
-# TITLE
+# Gaelan's Cream Soup
 
 Adapted from []().
 
-**Serves:** 
+**Serves: 3 or 4** 
 
 ## Ingredients
 
