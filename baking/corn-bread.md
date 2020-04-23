@@ -17,9 +17,29 @@ Adapted from [Healthy Treats: Vegan Blueberry Cornbread Recipe](https://www.peac
 | 1 1/4 cups | non-dairy milk
 | 1 Tbsp     | distilled white vinegar
 1 1 Tbsp     | neutral oil (canola, avocado, coconut (melted), etc)
-| 1/2 tsp    | vanilla extract
 | 3/4 cup    | corn kernels (thawed if frozen)
-| 1 1/2 cups | fresh blueberries
+
+### Variations
+
+#### Blueberry Cornbread
+
+| Amount     | Ingredient
+| :----:     | :---------
+| 1/2 tsp    | vanilla extract
+| 1 cup      | fresh blueberries
+
+#### Spicy Jalapeno Cornbread
+
+| Amount     | Ingredient
+| :----:     | :---------
+| 2          | fresh jalapeno chiles, finely chopped and sauteed
+
+#### Green Onion Cornbread
+
+| Amount     | Ingredient
+| :----:     | :---------
+| 1/2 tsp    | ground black pepper
+| 1/2 cup    | chopped green onions
 
 ## Instructions
 
