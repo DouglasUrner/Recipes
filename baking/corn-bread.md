@@ -25,7 +25,7 @@ Adapted from [Healthy Treats: Vegan Blueberry Cornbread Recipe](https://www.peac
 
 | Amount     | Ingredient
 | :----:     | :---------
-| 1/2 tsp    | vanilla extract
+| 1/2 tsp    | vanilla extract (add with wet ingredients)
 | 1 cup      | fresh blueberries
 
 #### Spicy Jalapeno Cornbread
@@ -38,7 +38,7 @@ Adapted from [Healthy Treats: Vegan Blueberry Cornbread Recipe](https://www.peac
 
 | Amount     | Ingredient
 | :----:     | :---------
-| 1/2 tsp    | ground black pepper
+| 1/2 tsp    | ground black pepper (add with dry ingredients)
 | 1/2 cup    | chopped green onions
 
 ## Instructions
@@ -47,7 +47,7 @@ Adapted from [Healthy Treats: Vegan Blueberry Cornbread Recipe](https://www.peac
 1. Combine dry ingredients
 1. Combine wet
 1. Mix wet ingredients into dry
-1. Add corn and berries
+1. Add corn and extras (berries, jalepenos, etc.)
 1. Fill loaf pan(s) about 3/4 of the way full
 1. Bake in mini loaf pans for 25 minutes, or until the loaf starts to smell and are nicely browned on top (and a toothpick comes out clean).
 
