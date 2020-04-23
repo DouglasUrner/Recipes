@@ -9,7 +9,7 @@ Adapted from [Healthy Treats: Vegan Blueberry Cornbread Recipe](https://www.peac
 | Amount     | Ingredient
 | :----:     | :---------
 | 1 cup      | corn meal
-| 1 cup      | flour
+| 1 cup      | flour, unifine or unbleached white
 | 1 tsp      | baking powder
 | 1 tsp      | baking soda
 | 1/2 tsp    | salt
