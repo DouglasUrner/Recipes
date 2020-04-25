@@ -1,1 +1,1 @@
-[Aloo Tikki (Indian Potato Cakes with Green Chutney)](https://minimalistbaker.com/aloo-tikki-indian-potato-cakes-green-chutney) the chutney adapted from [Sweet Green Chutney](http://www.vegrecipesofindia.com/green-chutney-sweet-green-chutney/)
+[Aloo Tikki (Indian Potato Cakes with Green Chutney)](https://minimalistbaker.com/aloo-tikki-indian-potato-cakes-green-chutney) the chutney adapted from [Tangy Sweet Green Chutney](http://www.vegrecipesofindia.com/green-chutney-sweet-green-chutney/)
