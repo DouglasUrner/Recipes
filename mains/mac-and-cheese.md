@@ -18,7 +18,7 @@ Source []().
 | 30 ml | Tomato paste, or 1 medium tomato
 | 1 - 2 tsp | Mustard powder
 | 4 tsp | Liquid aminos
-| 6 - 8 Tbsp | Nutritional yeast
+| 1/2 cup | Nutritional yeast
 | 1 - 2 Tbsp | Lemon juice
 | 2.5 ml | Smoked paprika or chipolte powder
 | 5 ml | Salt
