@@ -10,9 +10,9 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 
 | Amount    | Ingredient
 | :----:    | :---------
+| 1 cup     | unsweetened oat or nut milk
 | 3 Tbsp    | vegan butter (Melt)
 | 2 1/4 tsp | quick-rise instant yeast
-| 1 cup     | unsweetened oat or nut milk
 | 1 Tbsp    | sugar
 | 1/2 tsp   | salt
 | 2 cups    | unifine or unbleached all-purpose flour, plus more for kneading
