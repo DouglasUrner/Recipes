@@ -2,7 +2,7 @@
 
 Original research by GBS.
 
-**Serves: 3 sparsely, 2 sufficiently, 1 adequately** 
+**Serves:** 3 sparsely, 2 sufficiently, 1 adequately
 
 ## Ingredients
 
