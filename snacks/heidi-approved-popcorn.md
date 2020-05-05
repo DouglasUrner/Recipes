@@ -9,7 +9,14 @@ Original research by GBS.
 | Amount | Ingredient
 | :----: | :---------
 | 1 batch | air-popped popcorn
-| 4 Tbsp  | melt
+| 4 Tbsp  | vegan butter (Melt)
 | 1/4 cup | nutritinal yeast
 | 1 Tbsp  | liquid aminos
-| 3/4 tsp | slap
+| 3/4 tsp | [Slap](https://store.slapyamama.com/collections/frontpage/products/slap-ya-mama-original-blend-seasoning-8-oz-canister)
+
+## Instructions
+
+1. Pop popcorn
+1. Melt butter
+1. Wisk together butter and liquid aminos and drizzle over popped popcorn, toss to mix.
+1. Toss popcorn with yeast and seasoning.
