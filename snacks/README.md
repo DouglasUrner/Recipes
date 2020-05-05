@@ -1,3 +1,3 @@
 # Snacks
 
-* [Heidi Approved Popcorn][]
+* [Heidi Approved Popcorn][heidi-approved-popcorn.md]
