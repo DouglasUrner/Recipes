@@ -10,7 +10,7 @@ Adapted from [Mango Chutney](https://www.epicurious.com/recipes/food/views/mango
 | :----:   | :---------
 |  1 small | apple
 | 3 cups   | frozen mango (estimating 3 large mangos)
-| 60 g     | ginger, peeled and finely chopped
+| 40 g     | ginger, peeled and finely chopped
 
 
 ## Instructions
