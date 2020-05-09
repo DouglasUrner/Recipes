@@ -38,7 +38,7 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 ### Dough:
 1. Heat the milk and vegan butter until warm and melted, never reaching boiling. Remove from heat and let cool to 110 degrees F (43 C) – the temperature of bath water. It should be warm but not too hot or it will kill the yeast.
 1. Transfer mixture to a large mixing bowl and sprinkle on yeast and sugar. Let activate for 10 minutes. Then add the salt and stir.
-1. Next add in flour, 1/2 cup (68 g) at a time, stirring as you go (you may not add it all). The dough will be sticky. When it is too thick to stir, transfer to a lightly floured surface and knead for a minute or so until it forms a loose ball (take care not to overwork). Rinse your mixing bowl out, coat it with a neutral oil. Return the dougd to the bowl, cover and set in a warm place to rise until doubled in size (about an hour).
+1. Next add in flour, 1/2 cup (68 g) at a time, stirring as you go (you may not add it all). The dough will be sticky. When it is too thick to stir, transfer to a lightly floured surface and knead for a minute or so until it forms a loose ball (take care not to overwork). Rinse your mixing bowl out, coat it with a neutral oil. Return the dough to the bowl, cover and set in a warm place to rise until doubled in size (about an hour).
 
 ### Assembly:
 1. Toast and chop pecans.
