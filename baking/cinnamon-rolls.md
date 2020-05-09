@@ -2,7 +2,7 @@
 
 Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/).
 
-**Makes: about 10 rolls** 
+**Makes: about 12 rolls** 
 
 ## Ingredients
 
