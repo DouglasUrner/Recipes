@@ -44,7 +44,7 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 1. Toast and chop pecans.
 1. Mix pecans, raisens, brown sugar, and cinnamon in a small bowl.
 1. On a lightly floured surface, roll out the dough into a thin rectangle (about HxW). Brush with melted vegan butter and top with filling.
-1. Starting on a long edge, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough into 1.5 - 2 inch sections and position in a well-buttered 8x8-inch square or comparable sized round pan (you should have about 10 rolls as original recipe is written). 
+1. Starting on a long edge, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough in half, then into quarters, finally divide each quarter into three sections and position in a well-buttered 8x8-inch square or comparable sized round pan (you should have about 12 rolls as original recipe is written). 
 
 ### Second Rise & Baking:
 1. Brush the tops of the rolls with the remaining melted butter.  Cover and set on top of the oven to let rise again while you preheat oven to 350 degrees F (176 C). Let rise until the rolls have puffed up noticably.
@@ -53,4 +53,3 @@ Adapted from [The World’s Easiest Cinnamon Rolls](https://minimalistbaker.com/
 
 ## Notes:
 
-* Try increasing quantities by about 25% to make 12 rolls, bake in an 8 x 12 pan.
