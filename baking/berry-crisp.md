@@ -1,6 +1,6 @@
 # TITLE
 
-Adapted from []().
+Adapted from the Minimalist Baker's [Grain-Free Berry Crisp](https://minimalistbaker.com/grain-free-berry-crisp/).
 
 **Serves:** 
 
