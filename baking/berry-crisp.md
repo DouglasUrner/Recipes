@@ -1,8 +1,8 @@
-# TITLE
+# Berry Crisp
 
 Adapted from the Minimalist Baker's [Grain-Free Berry Crisp](https://minimalistbaker.com/grain-free-berry-crisp/).
 
-**Serves:** 
+**Serves: 8** 
 
 ## Ingredients
 
@@ -16,3 +16,5 @@ Adapted from the Minimalist Baker's [Grain-Free Berry Crisp](https://minimalistb
 1. 
 
 ## Notes
+
+* If you are using frozen berries:
