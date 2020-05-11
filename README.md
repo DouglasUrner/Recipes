@@ -9,3 +9,4 @@ Vegan recipes
 * [Main Courses](mains)
 * [Snacks](snacks)
 * [Soups](soup)
+* [Treats](treats)
