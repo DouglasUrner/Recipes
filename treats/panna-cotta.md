@@ -35,3 +35,4 @@ Adapted from []().
 
 ## Notes
 
+* Cornstarch can be used in place of agar, but makes a much stiffer panna cotta.
