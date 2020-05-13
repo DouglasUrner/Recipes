@@ -1,6 +1,6 @@
 # Vegan Recipes
 
-![](https://imgs.xkcd.com/comics/recipes.png)
+![To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.](https://imgs.xkcd.com/comics/recipes.png)
 
 But, if you're feeling brave:
 
