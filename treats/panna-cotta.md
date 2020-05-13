@@ -2,7 +2,7 @@
 
 Adapted from []().
 
-You can also make it without tofu [Vegan Panna Cotta with Strawberry Sauce](https://www.minamade.com/vegan-panna-cotta-strawberry-sauce/)
+You can also make it without tofu: [Vegan Panna Cotta with Strawberry Sauce](https://www.minamade.com/vegan-panna-cotta-strawberry-sauce/)
 
 **Serves: 6** 
 
