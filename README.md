@@ -1,6 +1,6 @@
-# Recipes
+# Vegan Recipes
 
-Vegan recipes 
+![](https://imgs.xkcd.com/comics/recipes.png)
 
 * [Baking](baking)
 * [Breakfast](breakfast)
