@@ -17,6 +17,8 @@ Adapted from []().
 
 ### Sauce
 
+| Amount  | Ingredient
+| :----:  | :---------
 | 450 g   | strawberries or other fruit
 | 6-12 Tbsp | caster sugar
 |         | lemon juice
