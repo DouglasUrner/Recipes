@@ -2,7 +2,7 @@
 
 Adapted from []().
 
-You can also make it without tofu: [Vegan Panna Cotta with Strawberry Sauce](https://www.minamade.com/vegan-panna-cotta-strawberry-sauce/)
+You can also make it without tofu: [Vegan Coconut Panna Cotta](https://tashasartisanfoods.com/blog/vegan-coconut-panna-cotta/), made with coconut cream, or [Vegan Panna Cotta with Strawberry Sauce](https://www.minamade.com/vegan-panna-cotta-strawberry-sauce/), made with a mix of almond milk and coconut cream.
 
 **Serves: 6** 
 
