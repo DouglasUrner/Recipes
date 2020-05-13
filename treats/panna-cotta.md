@@ -2,7 +2,7 @@
 
 Adapted from []().
 
-**Serves:** 
+**Serves: 6** 
 
 ## Ingredients
 
