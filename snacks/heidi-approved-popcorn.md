@@ -8,10 +8,10 @@ Original research by GBS.
 
 | Amount | Ingredient
 | :----: | :---------
-| 1 batch | air-popped popcorn
+| 1 batch (1/3 cup unpopped) | air-popped popcorn
 | 4 Tbsp  | vegan butter (Melt)
 | 1/4 cup | nutritinal yeast
-| 1 Tbsp  | liquid aminos
+| 3/4 Tbsp  | liquid aminos
 | 3/4 tsp | [Slap](https://store.slapyamama.com/collections/frontpage/products/slap-ya-mama-original-blend-seasoning-8-oz-canister)
 
 ## Instructions
