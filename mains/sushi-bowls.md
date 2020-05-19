@@ -1,6 +1,6 @@
 # Sushi Bowls
 
-Adapted from []().
+Adapted from [Vegan Sushi Bowls](https://www.washingtonpost.com/recipes/vegan-sushi-bowls/17092/).
 
 **Serves:** 
 
