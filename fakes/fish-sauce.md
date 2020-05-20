@@ -1,4 +1,4 @@
-# TITLE
+# Vegan Fish Sauce
 
 Adapted from []().
 
@@ -16,3 +16,5 @@ Adapted from []().
 1. 
 
 ## Notes
+
+* In a pinch just substitiute liquid aminos.
