@@ -1,4 +1,5 @@
 ## Asian
+* [Baked Tofu with Peanut Sauce](baked-tofu-with-peanut-sauce.md)
 * [Black Pepper Tofu](black-pepper-tofu.md)
 * [Sushi Bowls](sushi-bowls.md)
 
