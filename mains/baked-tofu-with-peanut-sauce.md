@@ -18,7 +18,7 @@ Adapted from Yewande Komolafe's [Baked Tofu With Peanut Sauce and Coconut-Lime R
 | 1  cup   | smooth, natural peanut butter
 | 1  Tbsp  | red miso
 | 1  Tbsp  | grated ginger
-| 1  Tbsp  | fish sauce (optional)
+| 1  Tbsp  | [vegan fish sauce](../fakes/fish-sauce.md) (optional)
 | 2  tsp   | chopped habanero pepper, stem and seeds removed, or 1 tablespoon sambal
 | 2  Tbsp  | molasses or buckwheat honey
 | 2  (14-ounce) package | extra-firm tofu, drained and sliced crosswise, 1/4-inch thick
