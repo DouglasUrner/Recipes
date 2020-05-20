@@ -2,7 +2,7 @@
 
 Adapted from Yewande Komolafe's [Baked Tofu With Peanut Sauce and Coconut-Lime Rice](https://cooking.nytimes.com/recipes/1020530-baked-tofu-with-peanut-sauce-and-coconut-lime-rice) from  New York Times Cooking (18 May 2020).
 
-**Serves:**
+**Serves: 4**
 
 ## Ingredients
 
@@ -28,6 +28,11 @@ Adapted from Yewande Komolafe's [Baked Tofu With Peanut Sauce and Coconut-Lime R
 
 ## Instructions
 
-1.
+1. Heat the oven to 450 degrees and lightly brush a large rimmed sheet pan with oil.
+1. In a small bowl, stir 4 tablespoons lime juice with 1/2 teaspoon salt until salt dissolves. Add the sliced peppers, a few cracks of black pepper and set aside.
+1. In a small pot, combine the rice with 1 cup water and the coconut milk. Season with salt and bring to a simmer. Cover and cook over medium-low until the rice is just tender, 12 to 15 minutes. Remove from the heat and let sit, covered, until ready to serve.
+1. In a medium bowl, whisk 4 tablespoons lime juice with the peanut butter, miso, ginger, fish sauce (if using), habanero, 2 tablespoons oil, 1 tablespoon honey and 3/4 cup water. Stir until smooth and season to taste with salt.
+1. Arrange the tofu pieces in a single layer on the oiled baking sheet and season with salt. Spoon about 2 tablespoons of the peanut sauce over each, covering the top and allowing the sauce to run down and coat the sides. Drizzle the tops with some oil, and roast until glaze is set, deep brown and caramelized along the edges, 18 to 20 minutes. Add the remaining lime juice and 1 tablespoon honey to the leftover peanut sauce in the bowl to make the dressing; set aside.
+1. Divide the greens among bowls. Add the lime zest and half the sliced scallions to the rice, then fluff with a fork. Top the greens with the rice, then the tofu. Spoon the peanut dressing over everything, and garnish with the drained pickled peppers and remaining sliced scallions.
 
 ## Notes
