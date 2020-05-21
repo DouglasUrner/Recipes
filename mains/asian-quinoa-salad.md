@@ -9,18 +9,18 @@ Adapted from Susie Nass []().
 | Amount | Ingredient
 | :----: | :---------
 |  | Ginger (small fresh piece, frozen square or from the tube, ground will even work)
-|  | Chicken broth (but water works too) or chicken bouillon
+|  | Vegetable broth (but water works too) or vegetable bouillon
 |  | Quinoa (if you don’t have quinoa, you could use pasta)
 |  | Vegetable oil
-|  | Rice wine vinegar (but another vinegar will do in these times of quarantine)
+|  | Rice wine vinegar (cider vinegar is a good substitute, but any vinegar will do in these times of quarantine)
 |  | Peanut butter
-|  | Soy sauce (I will use coconut aminos because my daughter is allergic to soy)
+|  | Liquid aminos or soy sauce
 |  | Honey
-|  | Sesame oil
+|  | Toasted sesame oil
 |  | Garlic (similar to ginger, whatever you have)
-|  | Bell pepper-any color or another other vegetable you have and need to use up such as asparagus, green beans, zucchini, etc.
-|  | Green onions – although half the time I make this I don’t have it, even when not in quarantine😊
-|  | Roasted unsalted peanuts-or salted -whatever! 
+|  | Bell pepper - any color or any vegetable you have and need to use up such as asparagus, green beans, zucchini, etc.
+|  | Green onions – if you have them
+|  | Roasted unsalted peanuts - or salted - whatever! 
 
 ## Instructions
 
