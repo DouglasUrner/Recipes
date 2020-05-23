@@ -2,7 +2,7 @@
 
 Adapted from [Balela Salad Recipe](https://simple-veganista.com/balela-salad/).
 
-**Serves:** 
+**Serves: 3** 
 
 ## Ingredients
 
