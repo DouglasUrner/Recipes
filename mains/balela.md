@@ -1,6 +1,6 @@
 # TITLE
 
-Adapted from []().
+Adapted from [Balela Salad Recipe](https://simple-veganista.com/balela-salad/).
 
 **Serves:** 
 
