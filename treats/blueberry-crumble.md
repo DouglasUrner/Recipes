@@ -6,15 +6,15 @@ Adapted from Moira Dodgson's [Blueberry Crumble](https://cooking.nytimes.com/rec
 
 ## Ingredients
 
-| Amount | Ingredient
-| :----: | :---------
+| Amount   | Ingredient
+| :----:   | :---------
 | 2  pints | blueberries
-|  | Juice of 1/2 lemon
-| 1  tablespoon | instant tapioca
-| 6  tablespoons | cold unsalted butter
-| 1  cup | all-purpose flour
-|  | Pinch of salt
-| 1  tablespoon | grated lemon peel
+|          | Juice of 1/2 lemon
+| 1  Tbsp  | instant tapioca
+| 6  Tbsp  | cold unsalted butter
+| 1  cup   | all-purpose flour
+|          | Pinch of salt
+| 1  Tbsp  | grated lemon peel
 
 
 ## Instructions
